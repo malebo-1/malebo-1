@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malebo-1
-- 👀 I’m interested in software developing
-- 🌱 I’m currently learning how to code
+- 👀 I’m interested in software development
+- 🌱 I’m currently enrolled in a full stack software engineering program
 - 📫 How to reach me malebokomape788@gmail.com
 
 <!---
